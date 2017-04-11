@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Y8HQA4YE8L.com.ccaa.login-verification-spike",
+        "paths": [
+          "/property/account/multifactor/login/*"
+        ]
+      },
+      {
+        "appID": "HDK2922LNQ.com.ccaa.login-verification-spike",
+        "paths": [
+          "/property/account/multifactor/login/*"
+        ]
+      }
+    ]
+  }
+}
